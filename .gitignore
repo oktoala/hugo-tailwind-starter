@@ -1,0 +1,9 @@
+node_modules
+public
+resources
+.env
+.netlify
+yarn-error.log
+*error
+.hugo_build.lock
+assets/css/styles.css
